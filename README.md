@@ -1,1 +1,1 @@
-# Unit-Tests-JS
+Harvard Introduction to Computer Science

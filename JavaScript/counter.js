@@ -6,4 +6,6 @@
         
         document.addEventListener('DOMContentLoaded', function () {
             document.querySelector('button').onclick=count;
+
+            setInterval(count, 1000)
         });        
